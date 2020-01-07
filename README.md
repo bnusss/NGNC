@@ -1,4 +1,5 @@
-# A General Deep Learning Framework for Network Reconstruction
+
+# Neural Gene Network Constructor: A Neural Based Model for Reconstructing Gene Regulatory Network
 
 This repository will contain the official PyTorch implementation of:
 <br>
@@ -48,3 +49,4 @@ If you use this code in your own work, please cite our paper:
 }
 
 ```
+
